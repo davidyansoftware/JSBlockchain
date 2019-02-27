@@ -1,0 +1,11 @@
+{
+  "name": "jsblockchain",
+  "version": "1.0.0",
+  "description": "A simple JS Blockchain",
+  "main": "Blockchain.js",
+  "author": "David Yan",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
